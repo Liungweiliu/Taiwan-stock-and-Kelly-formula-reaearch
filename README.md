@@ -1,8 +1,11 @@
 # Taiwan-stock-and-Kelly-formula-reaearch
-  This research began from November 2017.
-  The data is originated from Taiwan Economical Journal, including 93 taiwanese public campanies.
-  Input 240 trading days to predict the next 10 days' variation, with variable categories(9, 10, 12version).
-  Using python to program this CNN 2d model for calculating short-term future stock fluctuating tendency.
+This research began from November 2017.
+  
+The data is originated from Taiwan Economical Journal, including 93 taiwanese public campanies.
+  
+Input 240 trading days to predict the next 10 days' variation, with variable categories(9, 10, 12version).
+  
+Using python to program this CNN 2d model for calculating short-term future stock fluctuating tendency.
   
 We predicted the distribution of future stock tendency collaborating with Kelly formula, by deep learning CNN 2D model.
 
