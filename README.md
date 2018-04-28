@@ -1,4 +1,4 @@
-# Taiwan-stock-and-Kelly-formula-reaearch
+# Taiwan-stock-and-Kelly-formula-research
 This research began from November 2017.
   
 The data is originated from Taiwan Economical Journal, including 93 taiwanese public campanies.
